@@ -1,0 +1,18 @@
+.fixcolor
+{
+    color:  brown;
+}
+
+.h2heading
+{
+ font-style: italic;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ display: inline;
+}
+.ulli{
+letter-spacing: 0.1cm;
+}
+.pheading{
+padding-bottom: 15px;
+}
